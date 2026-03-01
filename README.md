@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Kshitiz 👋
 
-<!--
-**kshitiz-geology/kshitiz-geology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Earth Science student  
+🔍 Interested in Geological Consultancy & Data Analysis  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python
+- C Programming
+- Data Analysis
+- Remote Sensing Basics
+- LaTeX
+
+---
+
+## 📂 Projects
+- 🔹 Geological Data Analysis using PAST
+- 🔹 Linked List Implementation in C
+- 🔹 Remote Sensing Mini Project
+
+---
+
+## 📫 Contact
+- Email: kshitiz.s2205@gmail.com
+- LinkedIn: https://linkedin.com/in/kshitizdoes
